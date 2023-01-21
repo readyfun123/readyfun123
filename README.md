@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+    This is the repository for my website: readyfun123.github.io
+    It's a work-in-progress site which I got the idea to make after I created a computer science project
+    Basically you can just go on the website, and do what you like!
+    If you guys want to help out, do tell me
+    Thanks!
 <!--
 **readyfun123/readyfun123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
